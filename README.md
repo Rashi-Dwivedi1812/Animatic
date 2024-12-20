@@ -1,1 +1,2 @@
-# ANIMATIC - visually appealing website with smooth animations and transitions.
+# ANIMATIC - Full Stack Project
+# A visually appealing website with smooth animations and transitions.
