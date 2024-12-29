@@ -1,7 +1,7 @@
 # ANIMATIC
 # Visually Appealing Website with Smooth Animations and Transitions 
 
-This project showcases a modern and responsive website designed with captivating animations and seamless transitions. Built with HTML, CSS, and JavaScript, it leverages powerful libraries such as Locomotive.js, Swiper.js, and GSAP to deliver an engaging user experience. Additional resources, such as Favicon.io for icons and Unsplash for high-quality images, enhance the overall design.
+This project showcases a modern and responsive website designed with captivating animations and seamless transitions. Built with HTML, CSS, and JavaScript, it leverages powerful libraries such as Locomotive.js and Swiper.js to deliver an engaging user experience. Additional resources, such as Favicon.io for icons and Unsplash.com for high-quality images, enhance the overall design.
 
 # Features
 
